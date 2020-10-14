@@ -24,9 +24,6 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
@@ -46,6 +43,17 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## API Doc
+
+[http://localhost:3000/api-doc/#/](http://localhost:3000/api-doc/#/)
+
+
+## SCREEN SHOTS
+
+
+![API Doc](screenshots/API-DOC.png?raw=true "api doc")
+
 
 ## Test
 
